@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #edf5e1;
+    
+}
+h1{
+    font-size: 110px;
+    font-weight: 800;
+    font-family: sans-serif;
+    color:transparent;
+    margin-top: 150px;
+    text-align: center;
+    background-image: url(https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy-downsized-large.gif);
+    background-position: center;
+    -webkit-background-clip:text;
+
+}
+.text{
+    font-size: 60px;
+   text-decoration: wavy;
+    font-family: sans-serif;
+    color:transparent;
+    margin-top: 150px;
+    text-align: center;
+    background-image: url(https://media.giphy.com/media/RkPUiD8uhXhCqartjk/giphy-downsized-large.gif);
+    background-position: center;
+    -webkit-background-clip:text;
+}
